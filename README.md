@@ -16,6 +16,8 @@ If you have an iPhone, iPod touch or an iPad, you can connect it directly to you
 
 Alternatively, run it inside an Xcode simulator by choosing one of the available devices as your build target.
 
-## Demo
+## Short demo 📲
 
-<img src="https://user-images.githubusercontent.com/43642399/102824214-ae3c8500-43dc-11eb-88a2-992f737e4fca.gif" width="200" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43642399/102824214-ae3c8500-43dc-11eb-88a2-992f737e4fca.gif" width="200" />
+</p>
