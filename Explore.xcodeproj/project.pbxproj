@@ -18,6 +18,7 @@
 		3B466D7C25901DD200C43898 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B466D7825901DD100C43898 /* Location.swift */; };
 		3B466D7D25901DD200C43898 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B466D7925901DD100C43898 /* Data.swift */; };
 		3B466D7E25901DD200C43898 /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = 3B466D7B25901DD100C43898 /* locations.json */; };
+		3BDBDFF32590CF0A00F2E830 /* LocationsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDBDFF22590CF0A00F2E830 /* LocationsList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		3B466D7925901DD100C43898 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3B466D7B25901DD100C43898 /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 		3B466D86259020A200C43898 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3BDBDFF22590CF0A00F2E830 /* LocationsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 			children = (
 				3B466D7025901DB200C43898 /* ListItem.swift */,
 				3B466D7125901DB200C43898 /* LocationView.swift */,
+				3BDBDFF22590CF0A00F2E830 /* LocationsList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B466D7225901DB200C43898 /* ListItem.swift in Sources */,
+				3BDBDFF32590CF0A00F2E830 /* LocationsList.swift in Sources */,
 				3B466D7D25901DD200C43898 /* Data.swift in Sources */,
 				3B466D7325901DB200C43898 /* LocationView.swift in Sources */,
 				3B466D7C25901DD200C43898 /* Location.swift in Sources */,
@@ -465,6 +469,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Explore/Preview Content\"";
+				DEVELOPMENT_TEAM = 53GT4DF97F;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Explore/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -486,6 +491,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Explore/Preview Content\"";
+				DEVELOPMENT_TEAM = 53GT4DF97F;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Explore/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

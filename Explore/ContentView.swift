@@ -9,14 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        NavigationView {
-            List(locations) { location in
-                NavigationLink(destination: LocationView(location: location)) {
-                    ListItem(location: location)
-                }
-            }
-            .navigationTitle("All locations")
-        }
+        LocationsList()
     }
 }
 

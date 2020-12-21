@@ -42,5 +42,28 @@
           "longitude": -0.1246254
       },
       "picture": "elizabethTower"
+    },
+    {
+      "id": 5,
+      "name": "Buckingham Palace",
+      "description": "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning. Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by King George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House. During the 19th century it was enlarged, principally by architects John Nash and Edward Blore, who constructed three wings around a central courtyard. Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in 1837.",
+      "location": "City of Westminster",
+      "coordinates": {
+          "latitude": 51.501476,
+          "longitude": -0.140634
+      },
+      "picture": "buckingham"
+    },
+    {
+      "id": 6,
+      "name": "The Shard",
+      "description": "The Shard, also referred to as the Shard of Glass, Shard London Bridge and formerly London Bridge Tower, is a 72-storey skyscraper, designed by the Italian architect Renzo Piano, in Southwark, London, that forms part of the Shard Quarter development. Standing 309.6 metres (1,016 feet) high, the Shard is the tallest building in the United Kingdom, and the sixth-tallest building in Europe. It is also the second-tallest free-standing structure in the United Kingdom, after the concrete tower of the Emley Moor transmitting station. It replaced Southwark Towers, a 24-storey office block built on the site in 1975.",
+      "location": "London Borough of Southwark",
+      "coordinates": {
+          "latitude": 51.504501,
+          "longitude": -0.086500
+      },
+      "picture": "shard"
     }
+    
 ]
