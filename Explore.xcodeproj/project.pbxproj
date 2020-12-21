@@ -55,6 +55,7 @@
 		3B466D7825901DD100C43898 /* Location.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		3B466D7925901DD100C43898 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3B466D7B25901DD100C43898 /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
+		3B466D86259020A200C43898 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 		3B466D3625901D8F00C43898 = {
 			isa = PBXGroup;
 			children = (
+				3B466D86259020A200C43898 /* README.md */,
 				3B466D4125901D8F00C43898 /* Explore */,
 				3B466D5325901D9000C43898 /* ExploreTests */,
 				3B466D5E25901D9000C43898 /* ExploreUITests */,
@@ -105,10 +107,9 @@
 		3B466D4125901D8F00C43898 /* Explore */ = {
 			isa = PBXGroup;
 			children = (
+				3B466D8225901FEF00C43898 /* Views */,
 				3B466D7725901DD100C43898 /* Models */,
 				3B466D7A25901DD100C43898 /* Res */,
-				3B466D7025901DB200C43898 /* ListItem.swift */,
-				3B466D7125901DB200C43898 /* LocationView.swift */,
 				3B466D4225901D8F00C43898 /* ExploreApp.swift */,
 				3B466D4425901D8F00C43898 /* ContentView.swift */,
 				3B466D4625901D9000C43898 /* Assets.xcassets */,
@@ -159,6 +160,15 @@
 				3B466D7B25901DD100C43898 /* locations.json */,
 			);
 			path = Res;
+			sourceTree = "<group>";
+		};
+		3B466D8225901FEF00C43898 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3B466D7025901DB200C43898 /* ListItem.swift */,
+				3B466D7125901DB200C43898 /* LocationView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
