@@ -2,15 +2,21 @@
 //  ContentView.swift
 //  Explore
 //
-//  Created by Piotr Rutkowski on 21/12/2020.
+//  Created by Piotr Rutkowski on 20/12/2020.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView {
+            List(locations) { location in
+                NavigationLink(destination: LocationView(location: location)) {
+                    ListItem(location: location)
+                }
+            }
+            .navigationTitle("All locations")
+        }
     }
 }
 

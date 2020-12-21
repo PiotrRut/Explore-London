@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "The London Eye",
+      "description": "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually, and has made many appearances in popular culture.",
+      "location": "London Borough of Tower Hamlets",
+      "coordinates": {
+          "latitude": 51.503399,
+          "longitude": -0.119519
+      },
+      "picture": "londonEye"
+    },
+    {
+      "id": 2,
+      "name": "Tower Bridge",
+      "description": "Tower Bridge is a combined bascule and suspension bridge in London, built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become a world-famous symbol of London. As a result, it is sometimes confused with London Bridge, about half a mile (0.8 km) upstream. Tower Bridge is one of five London bridges owned and maintained by the Bridge House Estates, a charitable trust overseen by the City of London Corporation. It is the only one of the trust's bridges not to connect the City of London directly to the Southwark bank, as its northern landfall is in Tower Hamlets.",
+      "location": "London Borough of Lambeth",
+      "coordinates": {
+          "latitude": 51.505554,
+          "longitude": -0.075278
+      },
+      "picture": "towerBridge"
+    },
+    {
+      "id": 3,
+      "name": "St. Pauls Cathedral",
+      "description": "St Paul's Cathedral is an Anglican cathedral in London, United Kingdom, which, as the cathedral of the Bishop of London, serves as the mother church of the Diocese of London. It sits on Ludgate Hill at the highest point of the City of London and is a Grade I listed building. Its dedication to Paul the Apostle dates back to the original church on this site, founded in AD 604.[1] The present cathedral, dating from the late 17th century, was designed in the English Baroque style by Sir Christopher Wren. Its construction, completed in Wren's lifetime, was part of a major rebuilding programme in the City after the Great Fire of London. The earlier Gothic cathedral (Old St Paul's Cathedral), largely destroyed in the Great Fire, was a central focus for medieval and early modern London, including Paul's walk and St Paul's Churchyard being the site of St Paul's Cross.",
+      "location": "City of London",
+      "coordinates": {
+          "latitude": 51.513870,
+          "longitude": -0.098362
+      },
+      "picture": "stPauls"
+    },
+    {
+      "id": 4,
+      "name": "Big Ben",
+      "description": "Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster; the name is frequently extended to refer to both the clock and the clock tower.The official name of the tower in which Big Ben is located was originally the Clock Tower; it was renamed Elizabeth Tower in 2012 to mark the Diamond Jubilee of Elizabeth II, Queen of the United Kingdom. The tower was designed by Augustus Pugin in a neo-Gothic style. When completed in 1859, its clock was the largest and most accurate four-faced striking and chiming clock in the world. The tower stands 315 feet (96 m) tall, and the climb from ground level to the belfry is 334 steps. Its base is square, measuring 39 feet (12 m) on each side. Dials of the clock are 23 feet (7.0 m) in diameter. On 31 May 2009, celebrations were held to mark the tower's 150th anniversary.",
+      "location": "City of Westminster",
+      "coordinates": {
+          "latitude": 51.5007292,
+          "longitude": -0.1246254
+      },
+      "picture": "elizabethTower"
+    }
+]
