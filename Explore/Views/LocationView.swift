@@ -37,7 +37,7 @@ struct LocationView: View {
                 .frame(width: 340, height: 50)
                 .background(Color.blue)
                 .foregroundColor(.white)
-                .cornerRadius(15)
+                .cornerRadius(10)
                 .padding(.bottom)
             }
             .navigationBarTitle(location.name)
