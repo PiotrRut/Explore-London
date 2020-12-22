@@ -16,8 +16,14 @@ There is also a map view where users can see all locations displayed on a map.
 
 There will be more functions, screens and nice things coming as I explore SwiftUI and learn more!
 
-## Build instructions
+## Build instructions 📲
 
 If you have an iPhone, iPod touch or an iPad, you can connect it directly to your Mac and run this app locally. To do that, select your device as the build target in Xcode and run using `⌘ + R`.
 
 Alternatively, run it inside an Xcode simulator by choosing one of the available devices as your build target.
+
+## Screenshots 📱
+
+| List view  | Content | Map view |
+| ------------- | ------------- | -------- |
+| ![Simulator Screen Shot - iPhone 12 Pro - 2020-12-22 at 15 05 49](https://user-images.githubusercontent.com/43642399/102896997-9f4ee480-4467-11eb-82ab-7d8e09922523.png)  | ![Simulator Screen Shot - iPhone 12 Pro - 2020-12-22 at 15 05 39](https://user-images.githubusercontent.com/43642399/102897002-a0801180-4467-11eb-9968-690754e144a6.png)  | ![Simulator Screen Shot - iPhone 12 Pro - 2020-12-22 at 15 06 14](https://user-images.githubusercontent.com/43642399/102896982-99f19a00-4467-11eb-945e-42f7389a6666.png) |
