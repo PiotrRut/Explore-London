@@ -12,7 +12,7 @@ struct ContentView: View {
         TabView {
             LocationsList()
                 .tabItem {
-                    Label("List view", systemImage: "list.dash")
+                    Label("Location list", systemImage: "list.dash")
                 }
             MapView()
                 .tabItem {
