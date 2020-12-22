@@ -12,6 +12,8 @@ All source files are located in the [`Explore`](https://github.com/PiotrRut/Expl
 
 The idea here is simple - the app uses a static set of information about several tourist attractions in London, all fed to it from the `locations.json` file. This data is then passed over to a list and location detail view respectively, with the latter being the main view user land on to view information about a given landmark. The information is rendered in a nice looking design, which looks very iOS-like. Each location view also has a "Directions" button which redirects the user to the Apple Maps app.
 
+There is also a map view where users can see all locations displayed on a map.
+
 There will be more functions, screens and nice things coming as I explore SwiftUI and learn more!
 
 ## Build instructions

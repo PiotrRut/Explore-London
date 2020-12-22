@@ -9,7 +9,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        LocationsList()
+        TabView {
+            LocationsList()
+                .tabItem {
+                    Label("List view", systemImage: "list.dash")
+                }
+            MapView()
+                .tabItem {
+                    Label("Map view", systemImage: "map.fill")
+                }
+        }
     }
 }
 
