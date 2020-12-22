@@ -33,8 +33,7 @@ struct MapView: View {
             MapAnnotation(coordinate: annotation.coordinate) {
                 annotation.img
                     .resizable()
-                    .scaledToFit()
-                    .frame(width: 100, height: 35)
+                    .frame(width: 35, height: 35)
                     .clipShape(Circle())
                     .overlay(
                         Circle().stroke(Color.gray, lineWidth: 3))
